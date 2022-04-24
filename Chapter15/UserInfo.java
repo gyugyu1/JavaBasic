@@ -19,3 +19,4 @@ public class UserInfo implements java.io.Serializable{
 		
 	}
 }
+//test
